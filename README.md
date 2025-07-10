@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @GreatSunnie
 - 👀 I’m interested in FrontEnd Development
 - 🌱 I’m currently learning React 19...
+- I’m an entry-level React developer in the making
 - 💞️ I’m looking to collaborate on Real Projects that can help me gain more skills
 - 📫 How to reach me ...
 - 😄 Pronouns: HU
